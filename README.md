@@ -1,1 +1,1 @@
-# janta-sr.sce.+2sch-mahbal
+# jantasr.sce.+2sch.mahbal
